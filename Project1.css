@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,500&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-family:    poppins;
+}
+header{
+    background: #25242A;
+    padding:    2rem;
+    border-bottom-right-radius  :20px ;
+    border-bottom-left-radius  :20px ;
+}
+.LOGO{
+    color: white;
+    font-size: 2rem;
+    margin-left:    50rem;
+}
+.slo1{
+    font-size: 2rem;
+    margin-left: 50rem;
+    margin-top: 2rem;
+}
+.main{
+    padding: 1rem;
+}
